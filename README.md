@@ -10,6 +10,8 @@ Silvia Romanato,
 Alessandro Sinai,
 Mattia Stilinovic.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
 #### Rules:
 - The data consist of time series, splitted in a training and a test set;
 - The training set contains both inputs and outputs. The inputs are the returns for the first 50 time steps and the outputs that are the returns of the time series for the 51-st time step.
