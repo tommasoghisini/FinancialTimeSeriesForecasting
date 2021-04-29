@@ -1,16 +1,19 @@
 # Financial Time-Series Forecasting Challenge
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/TimeSeries_Forecasting.ipynb)
+
 *30412 - Machine Learning*
 
 *Università Commerciale L. Bocconi*
 
-Piercesare Fagioli,
-Tommaso Ghisini,
-Francesca Malfiore,
-Silvia Romanato,
-Alessandro Sinai,
-Mattia Stilinovic.
+### Authors:
+- Piercesare Fagioli,
+- Tommaso Ghisini,
+- Francesca Malfiore,
+- Silvia Romanato,
+- Alessandro Sinai,
+- Mattia Stilinovic.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/TimeSeries_Forecasting.ipynb)
+
 
 #### Rules:
 - The data consist of time series, splitted in a training and a test set;
