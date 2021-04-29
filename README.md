@@ -1,6 +1,6 @@
 # Financial Time-Series Forecasting Challenge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/TimeSeries_Forecasting.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tommasoghisini/FinancialTimeSeriesForecasting/HEAD?filepath=TimeSeries_Forecasting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tommasoghisini/FinancialTimeSeriesForecasting/main?filepath=TimeSeries_Forecasting.ipynb)
 
 ### **30412 - Machine Learning @ Università Commerciale L. Bocconi**
 
