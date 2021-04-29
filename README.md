@@ -6,12 +6,12 @@
 *Università Commerciale L. Bocconi*
 
 ### Authors:
-- Piercesare Fagioli,
-- Tommaso Ghisini,
-- Francesca Malfiore,
-- Silvia Romanato,
-- Alessandro Sinai,
-- Mattia Stilinovic.
+- Piercesare Fagioli
+- Tommaso Ghisini
+- Francesca Malfiore
+- Silvia Romanato
+- Alessandro Sinai
+- Mattia Stilinovic
 
 
 
@@ -28,7 +28,7 @@
 test set, starting from the training set. This should include hyperparameter optimization.
 
 -----
-**The submission deadline is next _Wednesday, the 28th, at 3:00 pm CET_.**
+**The submission deadline is _Wednesday 28th of April 2021 at 3:00 pm CET_.**
 
 -----
 
